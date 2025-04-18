@@ -1,0 +1,14 @@
+name: kpro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipython
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - shap
+  - xgboost
